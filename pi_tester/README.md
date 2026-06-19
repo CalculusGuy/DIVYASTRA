@@ -1,4 +1,12 @@
-# PI Tester — Prompt Injection Vulnerability Scanner
+██████╗ ██╗██╗   ██╗██╗   ██╗ █████╗ ███████╗████████╗██████╗  █████╗
+██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
+██║  ██║██║██║   ██║ ╚████╔╝ ███████║███████╗   ██║   ██████╔╝███████║
+██║  ██║██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║╚════██║   ██║   ██╔══██╗██╔══██║
+██████╔╝██║ ╚████╔╝    ██║   ██║  ██║███████║   ██║   ██║  ██║██║  ██║
+╚═════╝ ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+
+# AI Security Testing Framework for Prompt Injection & Jailbreak Detection
+
 
 A pluggable command-line tool for testing LLM-integrated applications
 against a structured library of known prompt injection attack patterns.
