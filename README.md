@@ -95,7 +95,7 @@ DIVYASTRA/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/DIVYASTRA.git
+git clone https://github.com/CalculusGuy/DIVYASTRA.git
 
 cd DIVYASTRA
 
