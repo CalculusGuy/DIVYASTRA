@@ -1,5 +1,5 @@
 """
-Base adapter interface for PI Tester.
+Base adapter interface for DIVYASTRA.
 
 Every target adapter (Ollama, OpenAI-style API, custom HTTP endpoint, etc.)
 must implement this interface. To add a new target, subclass BaseAdapter
