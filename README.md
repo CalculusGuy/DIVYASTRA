@@ -1,4 +1,4 @@
-# DIVYASTRA
+# DIVYASTRA v2
 
 ### AI Security Testing Framework
 
