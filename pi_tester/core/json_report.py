@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 
 def write_json_report(results: list, summary: dict, target_name: str, output_path: str) -> str:
     report = {
-        "tool": "pi-tester",
+        "tool": "divyastra",
         "version": "1.0.0",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "target": target_name,
